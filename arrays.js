@@ -1,3 +1,4 @@
+chocolateBars = []
 function addElementToBeginningOfArray(array, n) {
   [n, ...array]
   return array
