@@ -1,1 +1,1 @@
-var addElementToBeginningOfArray = 
+func addElementToBeginningOfArray = 
