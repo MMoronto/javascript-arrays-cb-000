@@ -1,1 +1,3 @@
-func addElementToBeginningOfArray = 
+function addElementToBeginningOfArray() {
+  
+} 
